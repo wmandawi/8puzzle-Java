@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=moveTime
+comment0.target=void\ refresh(int)
+comment1.params=
+comment1.target=void\ animateMove()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

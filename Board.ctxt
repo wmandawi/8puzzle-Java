@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=tiles
+comment0.target=Board(int[][])
+comment1.params=i\ j
+comment1.target=int\ tileAt(int,\ int)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=int\ hamming()
+comment4.params=
+comment4.target=int\ manhattan()
+comment5.params=
+comment5.target=boolean\ isGoal()
+comment6.params=
+comment6.target=boolean\ isSolvable()
+comment7.params=y
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.Iterable\ neighbors()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
